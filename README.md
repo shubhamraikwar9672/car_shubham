@@ -1,5 +1,7 @@
 # Car_Race_Game
-This is a racing game developed using pure JavaScript with animated graphics.
+This is a racing game developed using HTML, CSS & JavaScript with animated graphics.
 <br>
 <br>
-This site is live at https://karankanojia7830.github.io/Car_Race_Game/
+Present by - Shubham RAikwar
+
+![Capture](https://github.com/shubhamraikwar9672/car_shubham/assets/161449873/04b05b12-d76c-4350-b6a2-ec7ef9d545fb)
