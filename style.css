@@ -13,7 +13,7 @@
         .car, .enemy{
             width: 50px; height: 111px; background: rgb(66, 69, 237);
             position: absolute; bottom: 122px;
-            background-image: url('KaranKiCar.png');
+            background-image: url('SHUBHAMCAR.png');
             background-repeat: no-repeat;
             background-size: 100% 100%;
             /* background-color: transparent; */
